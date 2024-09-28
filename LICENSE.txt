@@ -1,0 +1,20 @@
+Secret Library Restricted Use License
+
+Copyright © Secret Corporation 2024
+
+Permissions:
+
+This software is provided for personal use only.
+Restrictions:
+
+Redistribution of this software, in source or binary form, is strictly prohibited.
+Modification, adaptation, translation, or creation of derivative works based on this software is not allowed.
+Selling, sublicensing, renting, leasing, or any commercial use of this software is forbidden.
+Reverse engineering, decompiling, or disassembling the software is not permitted.
+Liability Disclaimer:
+
+This software is provided "as is," without any warranties, express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
+In no event shall the author or copyright holder be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+Termination:
+
+Any violation of these terms will automatically terminate your rights under this license.
