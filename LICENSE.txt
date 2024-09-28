@@ -7,6 +7,7 @@ This software is licensed, not sold. By using this software, you agree to comply
 
 2. Permitted Use
 Personal Use Only: This software is provided solely for your personal use. No other rights are granted.
+
 3. Prohibited Actions
 You may not:
 
@@ -15,15 +16,20 @@ Modify: Alter, edit, adapt, translate, or create derivative works based on the s
 Commercial Use: Use the software for any commercial purposes, including but not limited to selling, renting, leasing, sublicensing, or any profit-generating activities.
 Reverse Engineer: Decompile, disassemble, reverse engineer, or attempt to discover the source code or underlying algorithms of the software.
 Remove Notices: Alter or remove any copyright, trademark, or other proprietary notices within the software.
+
 4. Intellectual Property
 All title, ownership rights, and intellectual property rights in and to the software remain with the author. You acknowledge that no title to the intellectual property in the software is transferred to you.
+
 5. Warranty Disclaimer
 No Warranty: The software is provided "as is" without warranties of any kind, whether express or implied, including but not limited to implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
 No Liability: The author shall not be liable for any direct, indirect, incidental, special, or consequential damages arising out of or related to the use of or inability to use the software, even if advised of the possibility of such damages.
+
 6. Termination
 This license is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with any term(s) of this license.
 Upon termination, you must immediately cease all use of the software and destroy all copies, full or partial, of the software.
+
 7. Governing Law
 This license shall be governed by and construed in accordance with the laws of Spain, without regard to its conflict of law principles.
+
 8. Entire Agreement
 This license constitutes the entire agreement between you and the author concerning the software and supersedes all prior or contemporaneous communications and proposals, whether oral or written, between you and the author with respect to the software.
